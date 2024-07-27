@@ -12,3 +12,4 @@ npm run dev
 ```
 
 > DATABASE NAME `backend/src/config/sequalize.js`
+database name"home"
